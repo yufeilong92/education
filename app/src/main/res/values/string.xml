@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="startlocation">开始定位</string>
+    <string name="stoplocation">停止定位</string>
+</resources>
